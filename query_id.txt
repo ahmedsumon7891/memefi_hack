@@ -1,0 +1,1 @@
+query_id=AAGzgPk5AwAAALOA-Tk0Hgy6&user=%7B%22id%22%3A7415103667%2C%22first_name%22%3A%22Jahid%22%2C%22last_name%22%3A%22Vai%203%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1728664197&hash=c208ae64840298d4d1e145d67ff39f8c716fc45b77d1f5a3f05ecaaee4079735
